@@ -3,7 +3,7 @@
 > Criamos uma aPlicação ( API REST ) que contenha 3 endpointn, aonde consumimos 2 endpoints de uma api Externa: 
 > ApI que consumimos : http://api-test.bhut.com.br:3000.
 > Method : GET / Post 
-- Api REst que implementamso : GET / POST / GET 
+- Api REst que implementamos  : GET / POST / GET 
 > • CRIAMOS uma tabela em banco nosql para armazenar os log com os campos mínimos de: id,
 data_hora e car_id;
 
